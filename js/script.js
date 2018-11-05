@@ -8,4 +8,12 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
-
+var userChoice;{
+    
+}
+var computerChoice;{
+    
+}
+var winner;
+var randomNumber =0;
+    
